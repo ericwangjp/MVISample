@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVISample</string>
+    <string name="txt_loading">加载中…</string>
+    <string name="txt_net_error">网络异常</string>
+</resources>
